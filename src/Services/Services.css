@@ -1,0 +1,19 @@
+.firstdiv {
+  background: linear-gradient(135deg, #850c62, #f80759);
+  width: 100%;
+  min-height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.firsth1 {
+  color: lavenderblush;
+}
+.firsth2 {
+  color: lavenderblush;
+  float: top;
+}
+.imgtag {
+  float: right;
+  padding-left: 310px;
+}
